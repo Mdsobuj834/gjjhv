@@ -1,4 +1,4 @@
-name: RDP
+name: ai
 
 on:
   workflow_dispatch:
